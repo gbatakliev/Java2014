@@ -37,12 +37,6 @@ public class Upr4 {
         for(int i=0; i<l.length; i++)
         if(l[i].endsWith(Search))    
         System.out.println(l[i]);
-        }
         //zadacha 3;    
-    public static void nizoveSadarjashtiGlavniBukvi(String k[], String Search) {
-        System.out.println("nizoveSadarjashtiGlavniBukvi" + Search + ":");
-        for(int i=0; i<k.length; i++)
-       
     }
-    
 }
